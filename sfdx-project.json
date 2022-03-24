@@ -5,7 +5,7 @@
       "default": true
     }
   ],
-  "name": "NewProjectApexLWC",
+  "name": "NovoProjetoLWC",
   "namespace": "",
   "sfdcLoginUrl": "https://login.salesforce.com",
   "sourceApiVersion": "54.0"
